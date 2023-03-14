@@ -10,7 +10,6 @@
     });
     
     
-    /* imagesLoaded  */
     $('.grid').imagesLoaded(function() {
         // filter items on button click
         $('.shop-menu').on('click', 'button', function() {
