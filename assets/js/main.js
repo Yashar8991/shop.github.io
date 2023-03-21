@@ -3,7 +3,7 @@
     
     
     
-    /* mobile menu active */
+    
     $('nav#dropdown').meanmenu({
         meanScreenWidth: "767",
         meanMenuContainer: '.mobile-menu'
