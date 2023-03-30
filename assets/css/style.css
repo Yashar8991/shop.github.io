@@ -1,38 +1,4 @@
 
-
-/*-----------------------------------------------------------------------------------
-
-    Template Name: Chaffer - Minimal eCommerce HTML Template
-    Description: This is html5 template
-    Author: themedream1
-    Version: 1.0
-
------------------------------------------------------------------------------------
-    
-    CSS INDEX
-    ===================
-	
-    1. Template default css (assets/css/bundle.css)
-    2. Home page one
-    3. Home page two
-    4. Home page three
-    5. Breadcrumb style
-    6. Login page
-    7. Shop sidebar page
-    8. Shopping cart
-    9. Contact page
-    10. About us
-    11. Single product page
-    12. Blog page
-    13. Blog details
-    14. Checkout page
-    15. 404 page
-    
------------------------------------------------------------------------------------*/
-
-
-/*--- 2. Home page one ----*/
-
 .header-to-info ul li {
     color: #fff;
     display: inline-block;
@@ -3573,12 +3539,3 @@ a#scrollUp:hover {
   border: 1px solid #333;
   color: #333;
 }
-
-
-
-
-
-
-
-
-
